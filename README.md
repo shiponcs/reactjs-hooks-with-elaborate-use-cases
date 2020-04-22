@@ -16,3 +16,4 @@ For good coupling, this repo also contains some use cases of
 - createContext
 - memo
 - createRef
+- forwardRef (according to _reactjs docs_, "useImperativeHandle hook should be used with forwardRef")
